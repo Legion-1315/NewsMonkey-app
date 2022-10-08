@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rob Picheta, Katie Hunt",
+      "title": "Nobel Prize goes to click chemists who discovered how to snap molecules together 'like Lego' - CNN",
+      "description": "The Nobel Prize in chemistry was awarded Wednesday for work that led to \"an ingenious tool for building molecules.\"",
+      "url": "https://www.cnn.com/2022/10/05/europe/nobel-prize-chemistry-winner-2022-scn-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221005110427-nobel-chemistry-split.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-05T12:05:00Z",
+      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe Nobel Prize in chemistry was awarded Wednesday for… [+4493 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Isabel Coles",
+      "title": "Russia Uses Iranian-Made Drones to Strike Military Base Deep Inside Ukraine - The Wall Street Journal",
+      "description": "Russia used hard-to-track suicide drones to strike a military base, posing a growing challenge for Kyiv as its forces pressed advances in the south and east of the country.",
+      "url": "https://www.wsj.com/articles/russia-uses-iranian-made-drones-to-strike-deep-inside-ukraine-11664965580",
+      "urlToImage": "https://images.wsj.net/im-637424/social",
+      "publishedAt": "2022-10-05T11:51:00Z",
+      "content": "Russia used suicide drones to strike a military base deep inside Ukraine on Wednesday, posing a growing challenge for Kyiv as its forces \r\npressed advances in the south and east of the country.The he… [+413 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Kim Tong-hyung",
+      "title": "Seoul's reprisal blows up after North Korean missile success - The Associated Press",
+      "description": "SEOUL, South Korea (AP) — A malfunctioning South Korean ballistic missile blew up as it plowed into the ground Wednesday during a live-fire drill with the United States that was a reprisal for North Korea's successful launch  a day earlier of a weapon that fl…",
+      "url": "https://apnews.com/de60a7b5b83248c549e6e65b49b4a373",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/b47e64e0e3e144808e66477bdecdabe3/3000.jpeg",
+      "publishedAt": "2022-10-05T11:40:59Z",
+      "content": "SEOUL, South Korea (AP) A malfunctioning South Korean ballistic missile blew up as it plowed into the ground Wednesday during a live-fire drill with the United States that was a reprisal for North Ko… [+5043 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": null,
+      "title": "Fan on destiny of Aaron Judge's record-setting home run ball - 'Good question' - ESPN",
+      "description": "Fan Cory Youmans caught Aaron Judge's AL-record-setting 62nd home run on the fly. The Dallas man said he hasn't decided what to do with the valuable souvenir.",
+      "url": "https://www.espn.com/mlb/story/_/id/34730623/dallas-fan-destiny-record-setting-aaron-judge-home-run-ball-good-question",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1005%2Fr1071146_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-10-05T11:26:33Z",
+      "content": "ARLINGTON, Texas -- As he walked through a concourse in the outfield at Globe Life Field, high-fiving other fans and surrounded by a sea of cameras, it was almost as if Cory Youmans had hit a huge ho… [+1314 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "After Russian retreat, Putin formally annexes 15% of Ukraine - Reuters.com",
+      "description": "As President Vladimir Putin completed paperwork for the annexation of four regions of Ukraine on Wednesday, the Kremlin said there was no contradiction between Russian retreats and Putin's vow that they would always be part of Russia.",
+      "url": "https://www.reuters.com/world/europe/russias-putin-signs-law-annexing-four-ukrainian-regions-2022-10-05/",
+      "urlToImage": "https://www.reuters.com/resizer/8k4JhDbgOVLHN_8TaF7AOseBP0k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/W54VPERJRBJ27P4WHU3UBHHRZI.jpg",
+      "publishedAt": "2022-10-05T10:43:00Z",
+      "content": "LONDON, Oct 5 (Reuters) - As President Vladimir Putin completed paperwork for the annexation of four regions of Ukraine on Wednesday, the Kremlin said there was no contradiction between Russian retre… [+3397 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Karen Gilchrist",
+      "title": "UK's Liz Truss pledges tax-cutting future in landmark speech plagued by protest and political infighting - CNBC",
+      "description": "British Prime Minister Liz Truss on Wednesday that cutting taxes was \"the right thing to do morally and economically,\" doubling down on a series of debt-funded economic reforms that have sparked in-party fighting and market turmoil.",
+      "url": "https://www.cnbc.com/2022/10/05/uks-liz-truss-pledges-tax-cutting-future-in-speech-plagued-by-protest.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129515-1664965088966-gettyimages-1243738509-69139979.jpeg?v=1664966516&w=1920&h=1080",
+      "publishedAt": "2022-10-05T10:41:56Z",
+      "content": "Prime Minister Liz Truss is seeking to rally MPs around her her tax-cutting policies following political infighting and market turmoil.\r\nLONDON British Prime Minister Liz Truss insisted Wednesday tha… [+4967 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Julian Mark",
+      "title": "Angelina Jolie details Brad Pitt abuse allegations in new filing - The Washington Post",
+      "description": "In a new court filing, Angelina Jolie alleges that ex-husband Brad Pitt pushed her, physically harmed their children and poured alcohol on them in 2016.",
+      "url": "https://www.washingtonpost.com/nation/2022/10/05/angelina-jolie-pitt-plane-allegations/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LATR7TSEGII63PQXRHF6NOGAUU.jpg&w=1440",
+      "publishedAt": "2022-10-05T10:24:00Z",
+      "content": "Shortly after news broke of a divorce between Hollywood power couple Angelina Jolie and Brad Pitt in September 2016, claims leaked through the news media of a flight only days before, during which Pi… [+5280 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Chloe Melas",
+      "title": "Tom Brady and Gisele Bündchen have hired divorce attorneys, source says - CNN",
+      "description": "Tom Brady and Gisele Bündchen, who have been living separately from each other in recent weeks, have each hired divorce attorneys and are \"exploring their options\" regarding their marriage, a source close to the estranged couple told CNN on Tuesday.",
+      "url": "https://www.cnn.com/2022/10/04/entertainment/tom-brady-gisele-bndchen-divorce-attorneys/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004152951-tom-brady-gisele-bunchden-file-2019-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-05T10:04:00Z",
+      "content": "Tom Brady and Gisele Bündchen, who have been living separately from each other in recent weeks, have each hired divorce attorneys and are exploring their options regarding their marriage, a source cl… [+1747 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Trevor Hughes, USA TODAY",
+      "title": "Pine Island after Hurricane Ian: Florida locals fight back amid damage - USA TODAY",
+      "description": "Hurricane Ian wiped out water and electricity to Pine Island. But residents remain ​​​​​​​– and they're fighting for some sense of normalcy.",
+      "url": "https://www.usatoday.com/story/news/nation/2022/10/05/pine-island-florida-after-hurricane-ian/8177685001/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/04/USAT/54a44767-e1b1-4684-842d-d67f959af08a-Curtis.jpg?auto=webp&crop=5469,3077,x193,y0&format=pjpg&width=1200",
+      "publishedAt": "2022-10-05T10:03:43Z",
+      "content": "PINE ISLAND, Florida — Cigarette dangling from her fingers, Christine Wright slowed her battered Oldsmobile minivan to a crawl, inching over a downed power line lying across the road.\r\nA few minutes … [+11648 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Elizabeth Pritchett",
+      "title": "Florida disabled mother rescued from flooded home by former North Chicago police officer during Hurricane Ian - Fox News",
+      "description": "A former North Chicago police officer rescued his disabled mother from her flooded Florida home after she decided not to evacuate the Naples area ahead of Hurricane Ian.",
+      "url": "https://www.foxnews.com/us/florida-disabled-mother-rescued-from-flooded-home-former-north-chicago-police-officer-during-hurricane-ian",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/10/AP22277839946926-e1664960220964.jpg",
+      "publishedAt": "2022-10-05T09:59:37Z",
+      "content": "A former cop rescued his disabled mother from her Florida home right in the nick of time after she decided not to evacuate ahead of Hurricane Ian.\r\nJohnny Lauder, a Chicago native who moved to Naples… [+3978 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Clare Duffy",
+      "title": "In major reversal, Elon Musk again proposes buying Twitter at full price - CNN",
+      "description": "Elon Musk on Monday sent a letter to Twitter proposing to follow through with his deal to buy the company at the originally agreed upon price of $54.20 per share, according to a securities filing on Tuesday.",
+      "url": "https://www.cnn.com/2022/10/04/tech/elon-musk-twitter-deal/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221003161026-03-elon-musk-0309-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-05T09:47:00Z",
+      "content": "Elon Musk on Monday sent a letter to Twitter proposing to follow through with his deal to buy the company at the originally agreed upon price of $54.20 per share, according to a securities filing on … [+5785 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Steve Contorno",
+      "title": "Biden to tour Ian damage in Florida with DeSantis feud on hold for now - CNN",
+      "description": "President Joe Biden will visit Florida on Wednesday to see first-hand the destruction caused by Hurricane Ian, once again putting a spotlight on his icy relationship with Gov. Ron DeSantis, the combative Republican leader posed to potentially challenge the De…",
+      "url": "https://www.cnn.com/2022/10/05/politics/joe-biden-ron-desantis-hurricane-ian/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/210824173907-01-desantis-biden-split.jpg?q=x_0,y_0,h_619,w_1100,c_fill/w_800",
+      "publishedAt": "2022-10-05T09:00:00Z",
+      "content": "President Joe Biden will visit Florida on Wednesday to see first-hand the destruction caused by Hurricane Ian, once again putting a spotlight on his icy relationship with Gov. Ron DeSantis, the comba… [+7197 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte",
+      "title": "When you eat may dictate how hungry you are, study says - CNN",
+      "description": "Eating later in the day doubles hunger pains and changes how the body manages fat, which may contribute to weight gain, a new study found.",
+      "url": "https://www.cnn.com/2022/10/05/health/eating-late-appetite-metabolism-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004144354-03-eating-late-appetite-metabolism-stock.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-05T08:47:00Z",
+      "content": "We all know that eating later in the day isnt good for our waistlines, but why? A new study weighed in on that question by comparing people who ate the same foods but at different times in the day.\r\n… [+4952 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Dinosaur-Killing Asteroid Triggered Monstrous Global Tsunami With Mile-High Waves - SciTechDaily",
+      "description": "Sixty-six million years ago a miles-wide asteroid struck Earth, wiping out nearly all the dinosaurs and around three-quarters of the planet’s plant and animal species. It also triggered a monstrous tsunami with mile-high waves that scoured the ocean floor tho…",
+      "url": "https://scitechdaily.com/dinosaur-killing-asteroid-triggered-monstrous-global-tsunami-with-mile-high-waves/",
+      "urlToImage": "https://scitechdaily.com/images/Maximum-Tsunami-Wave-Amplitude-Crop.jpg",
+      "publishedAt": "2022-10-05T08:46:55Z",
+      "content": "ByUniversity of MichiganOctober 5, 2022\r\nMaximum tsunami wave amplitude following the asteroid impact 66 million years ago. Credit: From Range et al. in AGU Advances, 2022\r\nSixty-six million years ag… [+9523 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "Republicans gain ground in Senate races in Pennsylvania and Wisconsin - POLITICO",
+      "description": "Polls show the two contests tightening as ad buys increase and GOP attacks on Democrats gain traction.",
+      "url": "https://www.politico.com/news/2022/10/05/johnson-oz-gain-in-senate-polling-00060326",
+      "urlToImage": "https://static.politico.com/1b/3f/33a5d8284305bdff7ccdda9d7b3f/election-2022-senate-pennsylvania-29370.jpg",
+      "publishedAt": "2022-10-05T08:30:00Z",
+      "content": "In the last month, however, the momentum has shifted: Johnson has retaken the lead in polling, and though Oz is still behind Fetterman, he has narrowed the gap in election surveys. Strategists in bot… [+9970 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Sarah Min",
+      "title": "Stock futures fall following a sharp two-day rally on Wall Street - CNBC",
+      "description": "Some traders wonder whether a pullback in Treasury yields could mean markets have finally priced in a bottom.",
+      "url": "https://www.cnbc.com/2022/10/04/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107114794-NYSE-Trading-Floor-Photo-220907-CC-PRESS-3.jpg?v=1664920999&w=1920&h=1080",
+      "publishedAt": "2022-10-05T08:03:00Z",
+      "content": "U.S. stock futures fell on Wednesday morning after the S&amp;P 500 posted its best two-day gain in roughly two years.\r\nDow Jones Industrial Average futures declined by 150 points, or 0.49%. S&amp;P 5… [+1274 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt",
+      "title": "Ukraine takes back dozens of towns in 'annexed' regions; Putin is 'out of moves,' ex-CIA chief says - CNBC",
+      "description": "Ukraine's counteroffensives in the south and east continue to make headway, with President Zelenskyy announcing dozens of liberated settlements.",
+      "url": "https://www.cnbc.com/2022/10/05/ukraine-hails-good-news-from-the-front-lines-with-major-gains-in-counteroffensives-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107129451-1664947044653-gettyimages-1243729672-AFP_32KQ2WM.jpeg?v=1664950401&w=1920&h=1080",
+      "publishedAt": "2022-10-05T07:09:00Z",
+      "content": "Devastated by Russia's invasion eight months ago, the Ukrainian economy will plunge 35% this year, the World Bank forecast.\r\nThe war has destroyed factories and farmland and displaced millions of Ukr… [+1059 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KFSN-TV" },
+      "author": null,
+      "title": "Merced kidnapping: Person of interest in custody, 4 family members still not found - KFSN-TV",
+      "description": "The Merced County Sheriff's Office says 48-year-old Jesus Manuel Salgado is in the hospital in critical condition after trying to take his own life before they tracked him down.",
+      "url": "https://abc30.com/merced-kidnapping-jesus-manuel-salgado-in-custody-4-family-members-kidnapped-business-car-found-on-fire/12295260/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12296223_100422-kfsn-suspect-new-img.jpg?w=1600",
+      "publishedAt": "2022-10-05T06:22:30Z",
+      "content": "MERCED, Calif. (KFSN) -- Time is ticking with a Merced family missing for more than 24 hours -- Jasleen Kaur, Jasdeep Singh, their eight-month-old daughter Aroohi, and the baby's uncle Amandeep Singh… [+2218 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "https://www.engadget.com/about/editors/mariella-moon",
+      "title": "DDoS attack on 'Overwatch 2' servers prevents fans from playing the game on launch day - Engadget",
+      "description": "Players report getting stuck in queue behind tens of thousands of other people also waiting to get in..",
+      "url": "https://www.engadget.com/ddos-attack-overwatch-2-050328450.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/fe720610-4463-11ed-ab3f-6bb75553644c",
+      "publishedAt": "2022-10-05T05:08:32Z",
+      "content": "Overwatch 2's early access launch has been marred by a few bugs and a massive DDoS attack preventing players from getting into the game. Fans have been reporting getting stuck on the loading screen a… [+2060 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Stephen Collinson",
+      "title": "Trump's latest delay tactic over Mar-a-Lago documents may not work for him at the Supreme Court - CNN",
+      "description": "If at first you don't succeed, try, try again.",
+      "url": "https://www.cnn.com/2022/10/05/politics/trump-supreme-court-mar-a-lago-documents/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221004194436-donald-trump-1001.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-10-05T04:01:00Z",
+      "content": "If at first you dont succeed, try, try again.\r\nThe right wing Supreme Court majority built by ex-President Donald Trump has ruled just as conservatives had hoped on politically charged cases on abort… [+6419 chars]"
+    }
+  ]
+}
